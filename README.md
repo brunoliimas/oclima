@@ -1,24 +1,22 @@
 Pequeno projeto para consumo de api externa do Open Weather e mostra o clima de acordo com a sua localização!
 
-Projeto criado com o [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Available Scripts
 
 In the project directory, you can run:
-No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
 Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.<br />
-Executa o aplicativo no modo de desenvolvimento. <br />
-Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
-
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
-You will also see any lint errors in the console.<br />
-A página será recarregada se você fizer edições. <br />
-Você também verá erros de fiapos no console.
+You will also see any lint errors in the console.
 
 ### `yarn test`
 
