@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_34" data-name="Elipse 34" cx="100" cy="100" r="100" transform="translate(-531 1388)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.785" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a5a7a8"/>
+      <stop offset="1" stop-color="#4b5053"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_de_máscara_7" data-name="Grupo de máscara 7" transform="translate(531 -1388)" clip-path="url(#clip-path)">
+    <circle id="Elipse_27" data-name="Elipse 27" cx="100" cy="100" r="100" transform="translate(-531 1388)" fill="url(#linear-gradient)"/>
+    <circle id="Elipse_28" data-name="Elipse 28" cx="252.096" cy="252.096" r="252.096" transform="translate(-746.569 1016.742)" fill="#fff" opacity="0.25"/>
+    <circle id="Elipse_29" data-name="Elipse 29" cx="252.096" cy="252.096" r="252.096" transform="translate(-596.868 1064.647)" fill="#fff" opacity="0.25"/>
+    <circle id="Elipse_30" data-name="Elipse 30" cx="252.096" cy="252.096" r="252.096" transform="translate(-516.629 1049.078)" fill="#fff" opacity="0.25"/>
+    <circle id="Elipse_32" data-name="Elipse 32" cx="252.096" cy="252.096" r="252.096" transform="translate(-693.874 966.443)" fill="#fff" opacity="0.25"/>
+    <circle id="Elipse_33" data-name="Elipse 33" cx="252.096" cy="252.096" r="252.096" transform="translate(-596.868 910.156)" fill="#fff" opacity="0.25"/>
+  </g>
+</svg>
